@@ -1,0 +1,105 @@
+form{
+    width: 80%;
+    margin: auto;
+   color: black
+
+}
+form{
+    background-color: cornflowerblue;
+    margin-top: 100px;
+    padding: 15px;
+}
+
+fieldset{
+    width: 98%;
+    height: 520px;
+    align-items: center;
+    padding: 10px;
+
+    
+}
+legend{
+    font-size: 2em;
+}
+.mdiv{
+    display: flex;
+    margin-left: 760px; 
+    margin-top: -70px;
+   font-size: 1.4em;
+}
+.m1 label{
+    margin-left: 255px;
+    font-size: 1.5em;
+}
+.m1 input{
+    margin-left: 30px;
+    font-size: 1.5em;
+}
+.m2 label{
+    margin-left: 280px;
+    font-size: 1.5em;
+}
+.m2 input{
+    margin-left: 30px;
+    font-size: 1.5em;
+}
+.m3 label{
+    margin-left: 290px;
+    font-size: 1.5em;
+}
+.m3 input{
+    margin-left: 30px;
+    font-size: 1.5em;
+}
+.m4 label{
+    margin-left: 290px;
+    font-size: 1.5em;
+}
+.m4 input{
+    margin-left: 30px;
+    font-size: 1.5em;
+}
+.m5 label{
+    margin-left: 0px;
+    font-size: 1.5em;
+}
+.m5 input{
+    width: 60px;
+    margin-left: 30px;
+    font-size: 1.5em;
+}
+.m6 label{
+    
+    font-size: 1.5em;
+}
+.m6 input{
+    width: 60px;
+    margin-left: 30px;
+    font-size: 1.5em;
+}
+.m7 label{
+    margin-left: 145px;
+    font-size: 1.5em;
+}
+.m7 input{
+    margin-left: 30px;
+    font-size: 1.5em;
+}
+ .m5 .lab{
+    margin-left: 235px;
+ }
+ .m6 .label{
+    margin-left: 250px;
+ }
+ #w1{
+    width: 300px;
+    height: 35px;
+    margin-left: 30px;
+    font-size: 1em;
+ }
+ #w2{
+    width: 300px;
+    height: 35px;
+    margin-left: 30px;
+    font-size: 1em;
+ }
